@@ -28,6 +28,10 @@ still pretty expensive. However, that's the cost of the development platform,
 not of the final product. It's safe to assume the final product would be
 cheaper.
 
+## Name
+
+The name is a pun on metamaterial. Metamaterial -> meatmaterial -> MeatMat.
+
 ## License
 
 This README is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?)
